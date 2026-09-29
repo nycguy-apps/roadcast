@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="RoadCast">
+  <defs>
+    <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#1f7085"/>
+      <stop offset="1" stop-color="#102d37"/>
+    </linearGradient>
+  </defs>
+  <rect width="64" height="64" rx="15" fill="url(#sky)"/>
+  <circle cx="46" cy="17" r="7" fill="#f4c85c"/>
+  <path d="M17 55 27 23h10l10 32Z" fill="#edf5f3"/>
+  <path d="M31 51h3l-1-8h-2Zm-1-13h4l-1-7h-2Z" fill="#102d37"/>
+  <path d="M9 27c2-5 6-7 11-6 2-4 6-6 10-5 2 0 4 1 6 2-2 1-4 3-5 6-8-1-14 1-22 3Z" fill="#dbe8e7" opacity=".9"/>
+</svg>
