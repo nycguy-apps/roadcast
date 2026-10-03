@@ -826,7 +826,7 @@ ${o.shaderPreludeCode.vertexSource}`,define:o.shaderDefine},defaultProjectionDat
     <section class="hero">
       <div class="hero-copy">
         <p class="eyebrow">Weather moves. So do you.</p>
-        <h1>Find the better hour to start a long drive.</h1>
+        <h1>Find the best time to start a long drive.</h1>
         <p>RoadCast tests where you will be, hour by hour, against forecast weather and daylight. It can recommend a safer departure or a reasonable alternate road route.</p>
       </div>
       <div class="hero-signal" aria-hidden="true">
@@ -958,7 +958,7 @@ ${o.shaderPreludeCode.vertexSource}`,define:o.shaderDefine},defaultProjectionDat
 
       <section class="map-timeline-grid">
         <div class="map-card">
-          <div class="map-heading"><div><p class="step-label">Moving forecast</p><h2>Conditions when you get there</h2></div><div class="legend"><span class="favorable">Favorable</span><span class="degraded">Degraded</span><span class="difficult">Difficult</span><span class="hazardous">Hazardous</span><span class="selected-route">Selected route</span><span class="alternate-route">Alternate</span><span class="road-marker">Road event</span><span class="alert-marker">NWS alert</span></div></div>
+          <div class="map-heading"><div><p class="step-label">Moving forecast</p><h2>Conditions along your trip</h2></div><div class="legend"><span class="favorable">Favorable</span><span class="degraded">Degraded</span><span class="difficult">Difficult</span><span class="hazardous">Hazardous</span><span class="selected-route">Selected route</span><span class="alternate-route">Alternate</span><span class="road-marker">Road event</span><span class="alert-marker">NWS alert</span></div></div>
           <div id="map" aria-label="Interactive map of forecast driving conditions"></div>
           <div id="map-error" class="map-error" role="status" hidden></div>
           <p class="map-note">Colored segments show the selected route and forecast impact. Gray dashed lines are reasonable alternate routes; select one to compare it at the closest departure time.</p>
